@@ -16,7 +16,7 @@ I'm a passionate **Full Stack Developer** and **Computer Science student** at **
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <!-- - 🔭 I'm currently working on **a video conferencing application** -->
-- 🌱 I'm currently learning **Data science** and **MAchine learning**
+- 🌱 I'm currently learning **Data science** and **Machine learning**
 - 👯 I'm looking to collaborate on **open-source web projects**
 - 💬 Ask me about **JavaScript, React, Node.js, and database design**
 - 📫 How to reach me: [wahidslimani20002@gmail.com](mailto:wahidslimani20002@gmail.com)
